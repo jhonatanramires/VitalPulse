@@ -15,21 +15,21 @@ export const NAV_ITEMS: NavItems = {
 	},
 	media: {
 		path: "/media",
-		title: "media",
+		title: "contenido",
 	},
 	about: {
 		path: "/about",
-		title: "about",
+		title: "sobre mi",
 	},
 };
 
 export const SITE = {
 	// Your site's detail?
-	name: "Ink",
-	title: "Astro - Ink",
-	description: "Crisp, minimal, personal blog theme for Astro",
-	url: "https://astro-ink.vercel.app",
-	githubUrl: "https://github.com/one-aalam/astro-ink",
+	name: "VitalPulses",
+	title: "VitalPulses :D",
+	description: "VitalPulses - La onda que impulsa el cuidado",
+	url: "https://vitalpulses.netlify.app",
+	githubUrl: "https://github.com/jhonatanramires/VitalPulse",
 	listDrafts: true,
 	image:
 		"https://raw.githubusercontent.com/one-aalam/astro-ink/main/public/astro-banner.png",
@@ -37,14 +37,14 @@ export const SITE = {
 	ytChannelId: "",
 	// Optional, user/author settings (example)
 	// Author: name
-	author: "", // Example: Fred K. Schott
+	author: "Jhonatan Ramirez", // Example: Fred K. Schott
 	// Author: Twitter handler
-	authorTwitter: "", // Example: FredKSchott
+	authorTwitter: "kare_jhon", // Example: FredKSchott
 	// Author: Image external source
 	authorImage: "", // Example: https://pbs.twimg.com/profile_images/1272979356529221632/sxvncugt_400x400.jpg, https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
 	// Author: Bio
 	authorBio:
-		"Crisp, minimal, personal blog theme for Astro. Crisp, minimal, personal blog theme for Astro. Crisp, minimal, personal blog theme for Astro",
+		"Soy **Jhonatan Steven Rodríguez Ramírez**, estudiante de Ingeniería Electrónica en el programa PEAMA de la Universidad Nacional de Colombia, sede Orinoquía. Me apasionan la electrónica y la enseñanza, y en **VitalPulse**, un sitio dedicado a la cultura, la salud y el cuidado, combino estos intereses. A través de este espacio, exploro cómo la tecnología y el bienestar pueden entrelazarse para fomentar una vida más saludable y consciente. Mi objetivo es crear contenido que inspire y eduque sobre cómo el cuidado personal puede transformarse mediante un enfoque integral y tecnológico.",
 };
 
 // Ink - Theme configuration

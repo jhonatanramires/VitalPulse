@@ -7,8 +7,8 @@ import PostPreviewList from '$/components/PostPreviewList.astro'
 import Paginator from '$/components/Paginator.astro'
 import { PAGE_SIZE } from '$/config'
 
-let title = 'Blog'
-let description = 'All the articles posted so far...'
+let title = 'Publicaciones'
+let description = 'VitalPulse: Cultura, salud y cuidado para inspirar una vida plena y consciente.'
 
 export async function getStaticPaths({ paginate }) {
   const allPosts = await getCollection('blog');
