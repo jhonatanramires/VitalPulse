@@ -34,7 +34,7 @@ export const SITE = {
 	image:
 		"https://raw.githubusercontent.com/one-aalam/astro-ink/main/public/astro-banner.png",
 	// YT video channel Id (used in media.astro)
-	ytChannelId: "",
+	ytChannelId: "@JhonatanStevenRodriguezR-fy1ng",
 	// Optional, user/author settings (example)
 	// Author: name
 	author: "Jhonatan Ramirez", // Example: Fred K. Schott
